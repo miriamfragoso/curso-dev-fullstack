@@ -1,0 +1,39 @@
+body{
+    background: #e0dada;
+}
+
+p {
+    color: #302c2c;
+}
+
+h1{
+    color:rgb(31, 56, 56);
+}
+
+h3{
+    color:rgb(101, 113, 51);
+}
+.fotoPerfil{
+     /*
+        width: 200px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: black;
+    */
+    
+    width: 200px;
+    border-radius: 50%;
+    border: 2px hidden #fffff; /* shorthand*/
+   
+    
+}
+
+ul{
+    color:blue;
+}
+   
+    
+
+  
+    
+
